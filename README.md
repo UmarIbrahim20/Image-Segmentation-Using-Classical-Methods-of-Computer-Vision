@@ -1,6 +1,14 @@
 # Image Segmentation Using Classical Methods of Computer Vision
 This project proposes a classical computer vision solution for detecting and segmenting colored balls (orange, yellow, white) from indoor RGB images with various lighting conditions. It uses grayscale transformation, Gaussian filtering, adaptive thresholding, HSV color space analysis, and morphological operations. The final segmentation masks achieve a mean Dice Similarity Score (DSC) of **0.8839**.
 
+### 📸 Original Image
+![Original](frame-95.png)
+
+### 📸 Segment Image
+![Original](best.png)
+
+### 📸 Dice Similarity graph of 64 Image
+![Original](barGraph.png)
 ---
 
 ## Dataset Description
