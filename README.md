@@ -127,9 +127,5 @@ imwrite(uint8(segmentedImages{i}) * 255, savePath);
 4. Criminisi et al. - Single View Metrology
 5. Haralick et al. - Mathematical Morphology
 6. Pal & Pal - Image Segmentation Review
-7. Sezgin & Sankur - Thresholding Survey
-8. Dice - Ecologic Association Measure
 ---
-
-> "This project shows the strength of classical CV methods in constrained environments where DL is not feasible."
 
